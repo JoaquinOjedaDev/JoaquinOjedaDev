@@ -1,4 +1,4 @@
-# Hello World, I'm Joaquin Ojeda!! 👋  
+# Hello World!👋  
 
 ## 🚀 Transforming Data into Strategic Insights  
 I'm a **Data Analyst & Machine Learning Enthusiast** passionate about **data-driven decision-making**.  
