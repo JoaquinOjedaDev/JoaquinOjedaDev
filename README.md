@@ -1,20 +1,21 @@
 # Hello World!👋  
 
-## 🚀 Transforming Data into Strategic Insights  
+## About Me: 
+### 🚀 Transforming Data into Strategic Insights  
 I'm a **Data Analyst & Machine Learning Enthusiast** passionate about **data-driven decision-making**.  
 My goal is to turn **raw data into actionable insights** using Python, SQL, and Machine Learning, presenting  
 them through compelling visualizations.  
 
 
 
-## 📊 From Data to Decisions  
+### 📊 From Data to Decisions  
 - 🔍 **Discovering hidden patterns** in data  
 - 🤖 **Building Machine Learning models** for predictions  
 - 📈 **Visualizing complex data** for strategic decision-making  
 
 
 
-## 🛠️ Tech Stack  
+### 🛠️ Tech Stack  
 #### **Languages:**  
 <div display="flex">
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -33,7 +34,7 @@ them through compelling visualizations.
 
 
 
-## 🌱 I’m currently learning  
+### 🌱 I’m currently learning  
 <div display="flex">
   <img src="https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
   <img src="https://img.shields.io/badge/Big%20Data-%23FF4500.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Big Data"/>
@@ -42,7 +43,7 @@ them through compelling visualizations.
 
 
 
-## 📫 How to reach me  
+### 📫 How to reach me  
 <div display="flex">
   <a href="https://www.linkedin.com/in/joaquinojeda-/?locale=en_US">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
